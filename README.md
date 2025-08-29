@@ -36,7 +36,8 @@ You can easily tweak particle count, colors, or add new presets by editing the J
 
 ## Screenshots
 
-*(Add your own screenshots here for extra impact!)*
+<img width="1920" height="1440" alt="384shots_so" src="https://github.com/user-attachments/assets/2d25dac4-b227-40f9-af84-1130a1d24e75" />
+
 
 ## License
 
